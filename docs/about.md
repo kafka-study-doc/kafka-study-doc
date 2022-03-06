@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: kafka
 title: 入门
 nav_order: 98
 ---
