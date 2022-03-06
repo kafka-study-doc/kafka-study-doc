@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown kitchen sink
+title: 入门
 nav_order: 98
 ---
 
