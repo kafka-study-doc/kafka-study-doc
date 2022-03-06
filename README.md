@@ -1,8 +1,8 @@
 ---
 layout: kafka
-title: 简介
-nav_order: 1
+title: 关于
+nav_order: 999
 ---
 
-# kafka-study-doc
+# 说明
 kafka学习之路
