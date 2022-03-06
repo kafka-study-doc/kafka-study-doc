@@ -1,4 +1,3 @@
-
 ---
 layout: kafka
 title: 分区的特性
