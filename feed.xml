@@ -9,7 +9,7 @@ layout: none
         <description>{{ site.description }}</description>
         <link>{{ site.baseurl}}{{ site.url }}</link>
         <atom:link href="{{ site.baseurl}}{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-        {% for post in site.startup %}
+        {% for post in site.html_pages %}
             <item>
                 <title>{{ post.title }}</title>
                 <description>{{ post.content | xml_escape }}</description>
